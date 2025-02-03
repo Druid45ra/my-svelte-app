@@ -1,0 +1,12 @@
+{
+    "name": "my-svelte-app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "dev": "rollup -c -w",
+        "build": "rollup -c"
+    },
+    "author": "",
+    "license": "MIT"
+}
